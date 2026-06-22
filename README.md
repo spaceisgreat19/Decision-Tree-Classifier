@@ -1,7 +1,5 @@
 # Decision-Tree-Classifier
 
-## A3Tree - Decision Tree Classifier
-
 * Description
   * Custom decision tree classifier implemented in C++.
   * Uses a linked-list-based general tree structure (TreeNode and EdgeNode).
